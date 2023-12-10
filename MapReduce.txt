@@ -1,0 +1,53 @@
+Q-1 What is MapReduce? What are its benefits?
+Answer: MapReduce is a framework for parallel processing with minimal movement of data and nearrealtime 
+results.
+Benefits:
+(a) Store data redundantly on multiple nodes which resolve the issue of accessing data whenever node failure happen.
+(b) Move computation to data which is new paradiam of distributed programming
+(c) Provide simple programming model to hide the underlying complexity
+
+Q-2 What is the key-value pair format? How is it different from other data structures? 
+What are its benefits and limitations?
+
+MapReduce have the following general form:
+map: (K1, V1)---> list (K2, V2) 
+reduce: (K2, list(V2)) ----> list (K2, V3) 
+The input type of map <key,value> pair is fully different from it's produced output type <key,value> pair.
+but the rule is reducer input <key,value> type must be same with mapper output <key,value> type. but final
+reducer output <key,value> type can be different from mapper and reducer input <key,value> pair.
+
+Different from other data structure: mapreduce key value format can represent structured and unstructured with large amount 
+data. on otherhand,it is little bit diffcult for other data structure to handle unstructured data. MapReduce key value format
+provide facilities to distributes and partitions data in cluster among different machines. on contrast, other data structure
+does not play any role for data distribution.
+
+Q-3 What is a Job tracker program? How does it differ from the task tracker program?
+
+Job tracker: Job tracker is a central component of MapReduce program which plays role to manage MapReduce jobs
+in whole over the cluster machines.
+Job tracker differes from task tracker based on both tracker's location and resposiblities :
+(a) Job tracker is a master program which located in NameNode while Task tracker is the program of Datanode
+(b) Job tracker monitors the execution and progress of MapReduce job in NameNode. Job tracker actually assign and schedule
+    MapReduce taske on data that is contained by datanode. on other hand, as we know, Task tracker is the 
+    program of each and every individual data node. task tracker in data node executes  individual tasks assigned to 
+    it by the JobTracker. it sends message to job tracker about the completion of MapReduce Job.
+
+Q-4 What are Hive and Pig? How are they different?
+    Hive: Hive is a infrastructure of data warehouse which was built on top of Hadoop. it gives opportunity
+    user to write query similar to SQL. it provides a query language named HiveQL. it helps data analist to 
+    analyze and process stored data in HDFS.
+    Pig : On contrast, Pig is scripting query language that is developed for data processing. for data trans-
+    formations, an language has been designed which name is Pig Latin. it offers a more expressive and flexible way 
+    of defining data processing tasks compared to raw MapReduce.
+
+    Differece between Hive and Pig:
+    (a)Hive is query based language while Pig is scripting language 
+    (b)Hive is more user friendly and easy to learn who knows SQL. but User need 
+    give some effort to learn Pig as it has own language structure
+    (c) Hive is designed for structured data processing and representation way is
+        tabular form. on otherhand, Pig is has capability to process structured and semi-structured
+        data. 
+    
+    
+
+ 

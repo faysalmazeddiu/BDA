@@ -1,0 +1,50 @@
+Q-1 What are the major sources of Big Data? Describe a source of each type .
+Answer:
+ (a) Structured Data:Transactional data is generated from various business operations, 
+    such as sales transactions,online purchases, financial transactions, and inventory records.
+    normally this types of data is saved in relational database.
+
+(b) unstructured data: million billion data is being generated  by social media where
+    user posting , commenting, sharing picture , video etc. social media one kind of 
+    sources of unstructured data.
+
+(c) Semi-structured Data: this types of data comes from devices , sensor, IOT technologies
+
+    above mention data is base of big data technology. apart form , data is categorized based
+    on their nature  Time Series Data,Geospatial Data, Textual Data,Multimedia Data,Web Data  
+
+
+Q-2 What are the three major types of Big Data applications? Describe two applications of each type.
+Answer :
+(a) Monitoring and Tracking Applications
+(b) Analysis and Insight Applications
+(c) New Product Development
+
+Monitoring and Tracking Applications:these are the initial basic application of Big data which help to grow
+up business and decision making.several apllications avail under this criteria like- Public Health Monitoring
+,Consumer Sentiment Monitoring,Asset Tracking,Supply Chain Monitoring,Electricity Consumption Tracking and
+so on.
+
+Analysis and Insight Applications:These are next level of Big Data applications. They can increase the effectiveness of 
+business and have transformative potential. Predictive Policing,Winning Political Elections are very popular application 
+under this category.
+
+Q-3 Would it be ethical to arrest someone based on a Big Data Model’s prediction of 
+that person likely to commit a crime?
+
+Answer: definitely not. based on guessing and prediction, nobody should be identified as a criminal and
+be punished. it will be unethical.
+
+Q-4 An auto insurance company learned about the movements of a person based on 
+the GPS installed in the vehicle. Would it be ethical to use that as a surveillance 
+tool?
+
+Answer: From my point of view, it is ethical as insurance company will provide 
+financial assistance for car problem or if any accident happen. so, they have right 
+to monitor car movement. on other hand, we have choice to get that insurace, if you
+feel that it is unethical, you can avoid that insurance.
+
+  
+
+
+    

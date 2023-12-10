@@ -1,0 +1,62 @@
+Q4: Imagine and list 4 new types of jobs that will be commonplace in the next 5-7 years. Does any of them appeal to you?
+
+Given the latest advancements in AI and technology altogether, it will be very common to see person who controls, maintains the AI technologies. Common nickname might “the AI guy”.
+Virtual reality might be a thing in the future as well, but maybe not in 5-7 years. There will be people who design and develop the world in VR.
+There are and will be more data in the future, as per Moore’s law, it might double every 4 years. Since there will be lots of data, we will need somebody who will maintain the privacy in those data. Data privacy protector kind of job.
+One of the jobs that would be possible is AI lawyer. Their job might be to represent AI ethics, their culture etc.
+
+
+Q4) Imagine and list 4 new types of jobs that will be commonplace in the next 5-7 years. Does any of them appeal to you?
+
+AI System Auditor: As AI systems become more widespread and integrated into business operations, there AI system auditors will work with developers and data scientists to identify potential risks and improve the performance of AI systems.
+
+Machine Learning Infrastructure Engineer: As the amount of data used in machine learning applications continues to grow, there will be a need for professionals who can design and develop infrastructure to support these applications.
+
+Deep Learning Research Scientist: As deep learning technologies continue to evolve, there will be a need for professionals who can conduct research and develop new models and algorithms to solving complex problems.
+
+AI User Experience Designer: As AI becomes more integrated into everyday products and services, there will be a need for professionals who can design intuitive and user-friendly interfaces for these applications and that are optimized for the unique capabilities and limitations of AI systems, and that provide a seamless and natural user experience.
+
+I think Machine Learning Infrastructure Engineers will work with both Data Scientists and Software Engineers to design and implement scalable infrastructure for storing, processing, and analyzing large datasets. And I think this will be appeal with me.
+
+
+Q4) Imagine and list 4 new types of jobs that will be commonplace in the next 5-7 years. Does any of them appeal to you?
+
+4 types of jobs that will be commonplace in the next 5-7 years:
+
+AI interactive dialog writer: as AI becomes more commonly used, more people will be involved in writing interactive dialog between humans and machine.
+Augmented Reality Designer
+*MIT video summary:
+The video explained the potential of AI and neural networks. How neural networks evolve through time, with some examples regarding classifying pictures, And showed improvement of its over accuracy and usefulness.
+
+*Learning from MIT Video:
+
+Artificial Neural network (ANN) is basically an attempt to learn how the human brain works and try to make decisions in a humanlike manner with as high accuracy as it can make.
+
+There are many subtypes of neural networks and each could be used to perform specific tasks.
+Recurrent networks: sequence modeling and language modeling
+Convolutional networks: image and video processing.
+Feedforward networks: classification and regression
+
+*Mit learning :
+Neural networks are powerful machine learning models that can be used for a wide range of tasks, including image recognition, natural language processing, and prediction. They are composed of interconnected layers of neurons that process inputs and output predictions. The weights and biases of the neurons are adjusted during training using backpropagation, which involves minimizing the difference between the predicted output and the actual output.
+
+Different types of neural networks are used for different types of tasks. For example, feedforward networks are used for tasks such as classification and regression, while recurrent networks are used for tasks such as sequence modeling and language modeling. Convolutional networks are used for tasks such as image and video processing.
+
+My Answer:
+
+(a) AI interactive dialog writer
+(b) Machine Learning Infrastructure Engineer
+(c) Cyber security Specialist
+(d) Data Analyst
+
+Among above four of them, Machine Learning Infrastructure Engineer job is more attractive to me.
+
+Learning from MIT Video:
+The MIT video described the evolution of Artificial Neural network (ANN) which is a Machine learning model. it was explained that how human brain works to reach out a decision and same process can be applied
+to machine. moreover, training can be provied to machine by adjusting weight and tarining data, so that high accuracy of the model can be acheived. various tasks such as prediction, language processing and 
+image recognition , where Neural networking is widely used. 
+There are different types of neural networks available - 
+(a) Feedforward networks that is applied for classification and regression, 
+(b)for image and video processing Convolutional networks is used which is another subtypes of neural network
+
+

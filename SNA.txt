@@ -1,0 +1,47 @@
+Q1.  What is social network analysis? How is it different from other data mining techniques such as clustering or decision trees?
+
+Social network analysis is a powerful method of analyzing relationships among entities to identify strong patterns. 
+There could be sub-networks in a network based on strong ties within the network. 
+SNA is different from clustering and decision trees in several ways: 
+
+(a)The goal of SNA is to analysis association between individuals and entities in Social media. while clustering and decision 
+   trees analyze characteristics of objects or entities
+(b)"Graph node with directed link" is suitable for SNA. on the otherhand,rectangular data of variable and instaces is used for 
+    clustering and decision trees.
+(c) Network metrixs and algorithms are applied to figure out relationships like centrality, community detection in term of SNA. 
+   on the contrast, K-means clustering algorithm is popular for clustering and Decision tree take decision based on similarities 
+   of objects and entity.
+
+
+Q2. How can SNA help with improving gross national happiness of any country or society?
+
+social bonding or relationship pattern among indivials , family members and community can be indentified by using SNA.
+this social network pattern provide assistence to policy maker to design of interventions or programs that make strong
+social ties , improve social cohesion and overall well-being. moreover, by applying SNA technique , community structures 
+can be built within schools, religious institutions and other organizations. by analyzing this community structures, 
+Authority provides facility to residents to improve qualities of life. it also assists to find out the individuals or 
+groups who are most influential within a community.
+
+
+Q3. What kind of pitfalls should one guard against in doing SNA?
+There are some drawback of SNA which should be kept in mind , while researcher apply SNA.
+    (a) Should not emphasize network matrix as it is just an aspect of Network analysis. it is significant to consider
+        the context of network and relationship that underline it.
+    (b) sensative information and behaviours can be collected by using SNA which might be the reason of ethical concern.
+        So, it is better to take consent from participants.
+    (c) Structural Analysis is more emphasized in SNA rather than Process analysis which limits usefulness of SNA 
+        in understanding social phenomena. So, When SNA is used, both Analysis should be equally focused.
+
+Q4. Data preparation takes more than 2/3 of the total time of an analytics project. Would that be true for SNA also? 
+
+Data preparation is a critical step of data mining. the amount of time is required for data preparation , it depend on
+the structure and quality of data . because data is coming from diferent sources with different types. from my opinion,
+it is also true for SNA that data preparation  time will be 2/3 of the total time of an analytics. the step of data preparation  
+involves for SNA  defining network boundaries , proper nodes and edges selection, and defing relationship types.
+        
+
+
+
+
+
+    

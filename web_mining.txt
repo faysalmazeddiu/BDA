@@ -1,0 +1,37 @@
+Q1: What are the three types of web mining?
+
+Web mining  is the  process of discovering intrinsic relationships  from Web data like textual, linkage, or usage
+There are three types of web mining 
+(a)Web Content Mining : Every page can have text, graphics, audio, video, forms, applications, and more kinds of content including user
+   generated content. Mining is done from the  textual content on the Web in terms of Web Content Mining.
+
+(b)Web Structure Mining :The structure of Web pages could also be analyzed to examine the pattern of hyperlinks among 
+  pages. There are two basic strategic models for successful websites: Hubs and Authorities.
+
+(c)Web Usage Mining:  web usage mining is the way to extract useful information and patterns from data generated through
+   Web page visits and transactions.
+
+
+Q2: What is clickstream analysis?
+
+ Analyzing the activity and descovering pattern of a web site, based on sequence of click,the location and duration
+ of visiting the paged  are made by users.Clickstream analysis can be useful for web activity analysis, software 
+ testing, market research, and analyzing employee productivity.
+
+Q3:  What are the two major ways that a website can become popular?
+  (a) Search Engine Optimization (SEO): Ranking the web page for search engine which enhence the popularity of a web page
+  (b) by promoting a web page through the Social media which increase the familiarity of web pages. this way is alson known 
+      as Social Media Marketing 
+
+Q4: What are the privacy issues in web mining?
+    By applying web mining techniques, information can be gethered from web page which results some security issues.
+    for instances - 
+    (a) Personal information can be revealed to public.
+    (b) User activity can be traced and tracked by web mining where user may think it as interference  his/her 
+        self-freedom.
+    (c) user information can be gethered which might go to wrong hand. this can leads the security and privacy issue
+       for users.
+    
+     
+
+

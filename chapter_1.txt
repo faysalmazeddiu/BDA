@@ -1,0 +1,62 @@
+Q-1 What is Big Data? Why should anyone care?
+
+Big Data: Big data mean data with large volumn which can not be analyzed or processed
+by using traditional way.  step by step procedures such as data collection, preperation,
+cleaining, store, applying mining technique to figure out pattern etc need to be followed
+to process and analyze large amount of data. the vast amount of data(Big data) with diferent
+types like - structured, unstructured, semi-structured emits from numerous data sources such as
+online transaction, social media(Facebook, Twitter) and sensor.
+
+Why should anyone care about Big data: Analyzing big data is important for extracting new pattern
+and discovering hidden knowledge.this hidden pattern and knowledge assists to make proper decision
+based on situation in terms of Business analysis, helps to identify emerging trends and innovation.
+Moreover,it enables predictive analytics and play vital role for Scientific and societal advancements.
+
+Q-2 Describe the 4V model of Big Data
+
+4V model indicates actually 4 major key or dimensions of Big data such as Volume, Velocity, Variety
+and Veracity.in big data aspect, 1st V indicates Volume which defines vast amount of data  is 
+generated from different sources. traditional data analysis technologies can not efficiently manage ,
+store or process this large volume of data. Big data analytical infrastructures like distributed data 
+storing technique,distributed programing and parallel processing which play significant role to analysis
+this massive amount of data. 2nd V means Velocity. Now a days , data is being originated very high speedly
+and transmitted real-time or near real-time over the internet with high speed connection. Big data technology
+capable to process and anaysis streaming data in real time. 3rd V means Variety that refers the diversity 
+of data. data might be structured, unstructured, semi structured based on different data sources.
+4th V defines Veracity that actually indecate data accuracy, correctness and data consistance.
+
+Q-3 What are the major technological challenges in managing Big Data?
+
+(a) Storing Huge amount of data 
+(b) Ingesting Streams at an Extremely Fast Pace which associated with Velocity
+(c) diffcult to manage different types and form of data which related with varieties.
+(d) data shifting from storage to processor with high speed is another major challenge
+    of Bid data handling
+
+Q-4 What are the technologies available to manage Big Data?
+Various technologies available to manage Big Data
+(a)Distributed File Systems: Hadoop Distributed File System (HDFS)is designed to
+    store and manage large volumes of data across a cluster of commodity hardware
+(b)number of  NoSQL Databases are designed to store and manage big data such
+   as Apache Cassandra, MongoDB, and Apache HBase
+(c)Data Warehousing:To Store and analysis structured and semi structured data,
+  there are some data warehouse technology such as Apache Hive, Amazon Redshift,
+  and Google BigQuery which provide SQL- like query.
+(d)Some Cutting-edge stream processing technologies like Apache Kafka, Apache Flink,
+    and Apache Storm are designed for real-time Data analysis and processing.
+(c) Apache NiFi, Informatica Big Data Edition, and Talend are popular tools for data
+    extracting, transforming and loading.
+
+Q-5 What kind of analyses can be done on Big Data?
+ Big Data can be utilized to visualize a flowing or a static situation. but some 
+ specific analysis can be performed on big data
+  (a) Descriptive Analytics
+  (b) Diagnostic Analytics
+  (c) Predictive Analytics
+  (d) Prescriptive Analytics
+  (e) Text Analytics
+
+
+ 
+  
+

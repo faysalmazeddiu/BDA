@@ -1,0 +1,53 @@
+Q2: Facebook and Google provide many services for free. In return they mine our email and blogs and send us targeted ads. Is that a fair deal?
+Answer: 
+My personal opinion is it is fair deal.  Since, various services are provided by Facebook and Google, from where we get some benefits and easily can use their services when we need. 
+On the other, they are revealing and analyzing our information.  It is actually win-win situation.  But, both parties should be careful about individual’s privacy.  
+Facebook and Google give lot of terms and condition before using their services. So, we should read those carefully, if you think it could be your privacy issue, then you have choice 
+to deny their service.
+
+2.  Describe the key steps in the data mining process. Why is it important to follow these processes?
+Answer:  CRISP proposed a data mining model which was developed with total six steps.
+•	Business Understanding: understanding business domain assist to choose proper data which are required for figuring out hidden insight and knowledge. It is the first phases of data mining.
+•	Data understanding:  various types of data is being generated from various sources daily basis. Data might structure, semi-structured and unstructured data. For data mining, we need to understand data and select those data for mining which will solve our problem and fulfill our purpose.
+•	Data preparation: since different sorts of data coming from different sources. So, to get accurate result, data should be relevant, clean and high quality.
+•	Modeling: In this step, model and pattern can be developed from dataset by using different data mining techniques. 
+•	Modeling Evaluation: accuracy, performance and satisfactory level of data mining are measured in this stage.
+•	Dissemination and rollout: Deployment plan, strategy to monitor and maintain data mining model are developed in this stage. Moreover, final report is created and review of the whole process is done to check any mistake. 
+This process need to be followed, so that accurate result can be figured out.
+
+
+
+
+
+
+4. Why is data preparation so important and time consuming?
+
+Answer : for data analysis, the most and significant step is data preperation which involves with cleaning 
+organizing and transform from raw data to certain formate that can be easily analyzed. data preparation is important and time consuming 
+because of large volume data which is generated from different sources. besides, the type of this generated data is not same. it can be different like 
+structured , semi structured, unstructured. So,  to get accurate insight and result, data should be relevant, clean, consistent and high quality in term
+of data analysis.
+
+
+6. What are the major mistakes to be avoided when doing data mining?
+
+1st Mistake: selection of wrong problem for data mining, which results waste of time
+because of incorrect results.
+
+2nd Mistake :Buried under mountains of data without clear metadata. instead of diging 
+vast amount of data, it is better to engage  with data.
+
+3nd Mistake : conducting data mining without planing which known as actually disorganized
+data mining.for instance- over and over again using same algorithm without thinking
+next stage, which might be the cause of wasting time and energy.
+
+4th Mistake : Insufficient business knowledge. lack of knowledge of business domain 
+which leads to generate meaningless output.
+
+5th Mistake: Incompatibility of data mining tools and dataset. all tools  for data collection, cleaning , mining 
+and representation should work simultaneously.
+
+6th Mistake: paying attention on aggregated output without observing individual records/prediction
+Above mentioned mistakes should be avoided during data mining
+
+

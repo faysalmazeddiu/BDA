@@ -1,0 +1,44 @@
+Q-1: How does Hadoop differ from a traditional file system?
+
+Answer: Different ways Hadoop and traditional file system differ with each other:
+(a)if we consider the archetecture of both , where traditional file system is developed
+for single or small cluster machines. on contrast, Hadoop is a distributed non relational 
+cost effective data storage on commodity hardware.
+ 
+(b)In terms of vast amount of data handling, Traditional file system does not have that much
+of ability to store and process.it has limitations of scaling up. on the other hand,Hadoop is 
+capable to handle, store and process of massive amount of data
+
+(c) Traditional file system is not fault tolerance while Hadoop is fault tolerent by coping 
+same data in differnt nodes.
+
+Q-2:What are the design goals for HDFS?
+Answer:
+
+(a) Hardware failure management
+(b) creating a way of faster reading and writting throughput which leads ability for large 
+     number of huge file sizes
+(c) Maintain simple data coherence, by writing data once but reading  many times.
+(d) by reducing data movement, it is possible to minimize network bandwidth requirement.
+
+Q-3. How does HDFS ensure security and integrity of data?
+
+Answer:Hadoop prevents data loss and corrupt at the time of data storage and process.At a time 
+files are written and appended only one time but many time reading is allowed. no simultinious update 
+can be performed. if somehow any block of data is lost or corrupted, a new replica of same is created
+by coping from the replicas on other data nodes.At least one of the replicas is stored on a data-node 
+on a different rack. This guards against the failure of the rack of nodes, or the networking router, 
+on it.there is an alogithm which name is "checksum" is used for all written data to HDFS.A process of serialization 
+is resoted to convert file to a byte e stream for transmission over a network or for writing to persistent 
+storage. by using Kerberos verifier , Hadoop ensure extra security. 
+
+Q-4. How does a master node differ from the worker node?
+Answer:Master node can be  differentiated from the Worker node on the basis of their resposibilities
+Hadoop is developed based on two types of Nodes which is known as master slave archetecure.
+Master node is called NameNode which is single. on the otherhand, multiple number of workers node is known
+as slave. it is also called DataNodes. In hadoop file system, maintaining file systems and namespaces, access
+controling of file, and processing plan on data for all application are taken care by master node. 
+on conversely, worker nodes saves data block in their storage space, it also increase and makes 
+faster of storage capacity and access speed respectively. based on instruction of Master node, Slave worker
+node store and distributes block of data over the network by using a block protocol.
+

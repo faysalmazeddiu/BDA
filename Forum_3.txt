@@ -1,0 +1,27 @@
+2: What are the key elements of a data warehouse? Describe each one.
+
+There are four important key elements in term of Data warehouse architecture. 
+First one is data source which actually indicates “from where data is generated”. It is the origin of raw data. Data can be generated from different sources like ERP system, legacy system, point of sell, web usage, government body, business organization and so on. 
+For analysis purpose data warehouses are developed from structured data sources. If we need to use unstructured data for analysis, at first, it is required to convert structured data before send it to DW. Based on data source, data are classified into different 
+category such as Operations data – come from all business related application, specialized application data - data from POS, ecommerce application. External syndicated data-available for public like weather data.
+The way of Data transformation is second vital element of data warehouse architecture. Here, quality full data is selected based on need for decision making from operational database sources or other application on daily basis. 
+Then data need to clean by removing any irregularities or missing values and if require another fields data is combined. Then whole data should be brought to meaningful format as the central table of data warehouse. This whole 
+procedure is known as ETL which means Extract, transform, loading.
+Third element is data mart. It is process of data storage which contains information to an organization’s business unit. It holds small portion of data which already saved in large storage system. For data mart, most preferable 
+data architecture is star schema where one central table responsible to provide all information. This central table contains the code or id of lookup table that provide all detail information. There is another data architecture 
+is snowflake. the difference between star and snowflake is, lookup table might have it’s own lookup table.
+Fourth key element is DW accessing. Data can be accessed by many users through several devices and application for different purposes. DW data could be used for reporting, dashboard analysis , ad-hoc queries and data mining purpose.
+
+
+
+4. How will data warehouse evolve in the age of social media?
+
+Now -a- days, social media became a platform where individuals express their desire, emotion and opinion. Large amount of unstructured 
+data like image, video, and text are being generated from social media daily basis.  By analyzing these data, it is possible to make an 
+idea about user behavior, intend, and sentiment, which could be valuable for any organization and business. There are various ways of 
+data warehouse that assists to evolve in the age of social media.  Data warehouse need to be integrated to collect, store and analysis 
+social media data. As we said vast amount of unstructured data is produced from social media by user, so unstructured data need to be 
+converted to structured data before saving to Data warehouse like NoSQL database- HIVE, HBASE. Another significant thing is real-time 
+data processing, because huge amount of data is generated quickly by millions of user same time. To compete in market, it is important 
+to find immediate insight, knowledge, understand consumer mindset and   taking quick decision. So, Data warehouse plays a great role 
+for real-time and right-time data processing by providing user to make quick and on-fly query on data of data warehouse. 

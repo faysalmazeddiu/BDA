@@ -1,0 +1,47 @@
+Q-1 Describe the Big Data processing architecture.
+
+Answer:
+Big Data processing architecture is consist with certain layers and some 
+cutting-edge data processing technologies.
+(a)Big Data sources layer: this layer indicates actually from where data is being generated and collected.
+(b)Data Ingest layer: In this layer, data is acquired or receved from data source. here data can be collected
+   with several amount with different speed. then data is send to stream processing , Batch processing, or 
+   distributed file system.
+(c)Batch Processing layer: this layer receive data from data ingestion layer or file system or
+   different No-Sql database.after that, by applying parallel data processing technique like
+   MapReduce, data is processed and produce result.
+(d)Stream Processing layer: this layer also same as Batch Processing layer. receive data from ingestion
+   layer but received data should be continious generated data which is processed in real-time and produces
+   result.
+(e)Data Organizing Layer: In this layer , Data come from Stream and Batch processing layer.
+   the main purpose of this layer is organizing data for easy accessing.
+  
+Apart from, above mentioned five layer , Infrastructure Layer, Distributed File System Layer, and 
+Data Consumption layer most important part of Big Data processing architecture.
+
+Q-2 What are Google’s contributions to Big data processing?
+
+ Answer:Google contributes a lot for big data analysis and processing
+ (a) Big Data architecture is the initial invention of the Google
+ (b) Goggle developed web crawling agents which would follow all the links in the web and make a copy of 
+     all the content on all the webpages it visited.
+ (c) Google invented Query Serving infrastructure
+ (d) Google develop MapReduce framework for parallel and distributed data processing where vast amount
+     of data is processed by thousands of computers in parallel.
+
+Q-3 What are some of the hottest technologies visible in Big Data processing?
+
+Answer: the hottest technologies visible in Big Data processing:
+ (a) Apache Hadoop
+ (b) Apache Spark
+ (c) Apache Kafka
+ (d) Apache Flink
+ (e) Apache Cassandra
+ (f) Apache Druid
+ (g) Apache Beam
+ (h) GPU Computing: Graphics Processing Units (GPUs)
+   are increasingly being used in Big Data processing
+   for their parallel processing capabilities
+ (i) Cloud providers, such as Amazon Web Services (AWS),
+     Google Cloud Platform (GCP), and Microsoft Azure, 
+    offer a range of managed Big Data services.
